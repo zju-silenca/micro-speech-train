@@ -1,0 +1,4 @@
+.venv
+tensorflow_git
+tflite-micro
+__pycache__
